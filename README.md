@@ -77,4 +77,6 @@ Aspiring Data Analyst | Power BI | SQL | Python
 
 ## ⭐ Acknowledgment
 Dataset used: **Financials**
+Images: <img width="652" height="370" alt="Financials Dashboard" src="https://github.com/user-attachments/assets/4efcad14-476a-4dd4-8c88-f979d727d020" />
+
 
